@@ -12,6 +12,7 @@ I love to go to the gym(💪🏻) and practice Krav Maga(🥋).
 
 * 🌍  I'm based in Aracaju - Sergipe
 * ✉️  You can contact me at [contato@rafaelaquino.net](mailto:contato@rafaelaquino.net)
+* 🤝  I'm open to collaborating on Ruby on Rails projects
 
 ### 📓 Some Blog Posts 🇧🇷
 
