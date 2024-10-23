@@ -16,8 +16,9 @@ I love to go to the gym(💪🏻) and practice Krav Maga(🥋).
 
 ### 📓 Some Blog Posts 🇧🇷
 
-- [Como personalizar o visual de mensagens Flash no Rails](https://campuscode.com.br/conteudos/como-personalizar-o-visual-de-mensagens-flash-no-rails)
-- [Criando uma autenticação com Devise + Facebook](https://campuscode.com.br/conteudos/criando-uma-autenticacao-com-devise-facebook)
+- [Beware of Common Big O Notation Traps in Job Interviews!](https://www.linkedin.com/pulse/beware-common-big-o-notation-traps-job-interviews-rafael-aquino-2b3pf/)
+- [Service Objects: Organizing Business Logic in Ruby on Rails](https://www.linkedin.com/pulse/service-objects-organizing-business-logic-ruby-rails-rafael-aquino-q9izf/)
+- [Form Object: Cleaning Up Controller Logic in Ruby on Rails](https://www.linkedin.com/pulse/form-object-cleaning-up-controller-logic-ruby-rails-rafael-aquino-opdkf/)
 
 ### Skills
 
