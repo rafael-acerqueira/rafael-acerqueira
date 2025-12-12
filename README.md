@@ -1,45 +1,86 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Aquino
 =====================================================================================================================================
 
-Fullstack Developer
+Fullstack Software Engineer | Python • FastAPI • React/Next.js
 -------------------
 
-I've worked as a Fullstack Developer focusing on Ruby on Rails
+I’m a Fullstack Software Engineer with 10 years of experience building backend-heavy web applications, APIs, and automation tools.
+
+My career started with Ruby on Rails, where I delivered production systems for companies of different sizes. Over the last year, I’ve transitioned into **Python fullstack development**, working with **FastAPI** on the backend and **React/Next.js** on the frontend, supported by real projects, continuous learning, and Python-based deliveries for local businesses.
+
+I have strong experience designing scalable architectures, integrating complex APIs, optimizing backend performance, and building user-focused interfaces. I’ve also worked remotely with a U.S.-based team for more than **2 years**, collaborating in English and high-autonomy environments.
+
+Alongside my fullstack work, I’ve been building **AI/LLM projects**, including **Review Analyzer**, an AI-powered platform using Python, FastAPI, OpenAI API, structured prompting, and embeddings.
 
 In my free time, I like to play Online Games(🕹️), read books (📚), watch soccer games (⚽️), movies (🎞️) and series (📺). 
 
 I love to go to the gym(💪🏻) and practice Krav Maga(🥋).
 
-* 🌍  I'm based in Aracaju - Sergipe
-* ✉️  You can contact me at [contato@rafaelaquino.net](mailto:contato@rafaelaquino.net)
-* 🤝  I'm open to collaborating on Ruby on Rails projects
+* 🌍  Based in Aracaju - Sergipe, Brazil
+* ✉️  Contact: [contato@rafaelaquino.net](mailto:contato@rafaelaquino.net)
+* 🤝  Open to Python Backend and Fullstack opportunities  
+---
 
-### 📓 Some Blog Posts 🇧🇷
+### 🚀 Featured Projects
+
+- **Review Analyzer** — AI-powered review analysis platform  
+  Python • FastAPI • OpenAI API • Embeddings • React  
+  👉 https://review-analyzer.rafaelaquino.net
+
+- **Little Invest** — Fullstack investment simulation platform  
+  Next.js • TypeScript • Strapi • TailwindCSS  
+  👉 https://little-invest.rafaelaquino.net
+
+- **Google Calendar → Excel Automation Tool**  
+  Python automation using OAuth2 for data extraction and reporting
+
+---
+
+### 🧠 Technologies & Tools
+
+**Backend**  
+Python, FastAPI, Ruby on Rails, REST APIs, Clean Architecture
+
+**Frontend**  
+React, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Sass, Slim
+
+**AI / LLM Projects**  
+OpenAI API, Structured Prompting, Embeddings, Semantic Search, Vector Databases (concepts)
+
+**Testing**  
+Pytest, RSpec, Minitest, Playwright
+
+**Infrastructure & DevOps**  
+Docker, AWS (EC2, S3), Render, Heroku, DigitalOcean, CI/CD
+
+**Databases**  
+PostgreSQL, MySQL, Redis, Snowflake, Redshift
+
+---
+
+---
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://stats.programcx.cn/api?username=rafael-acerqueira)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rafael-acerqueira)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafael-acerqueira&theme=github-compact&hide_border=true)
+
+
+---
+
+### 📓 Writing & Knowledge Sharing
 
 - [Beware of Common Big O Notation Traps in Job Interviews!](https://www.linkedin.com/pulse/beware-common-big-o-notation-traps-job-interviews-rafael-aquino-2b3pf/)
 - [Service Objects: Organizing Business Logic in Ruby on Rails](https://www.linkedin.com/pulse/service-objects-organizing-business-logic-ruby-rails-rafael-aquino-q9izf/)
 - [Form Object: Cleaning Up Controller Logic in Ruby on Rails](https://www.linkedin.com/pulse/form-object-cleaning-up-controller-logic-ruby-rails-rafael-aquino-opdkf/)
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-</p>
+---
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rafael-acerqueira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aquinorafael" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rafael-acerqueira"><img src="https://github-readme-stats.vercel.app/api?username=rafael-acerqueira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rafael-acerqueira's GitHub stats" /></a>
-
-<a href="http://www.github.com/rafael-acerqueira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-acerqueira&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/rafael-acerqueira"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafael-acerqueira&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/rafael-acerqueira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-acerqueira&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
